@@ -1,2 +1,5 @@
-# rss-scraper-demo
-Demo Application for Rss Scraper
+# Rss Scraper DEMO
+
+![screenshot](screenshot.PNG)
+
+Demo Application for Rss Scraper.
